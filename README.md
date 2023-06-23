@@ -19,3 +19,5 @@ This program simulates an auction where users can enter their bids and determine
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+## Author
+Kevin Kegan Olome
